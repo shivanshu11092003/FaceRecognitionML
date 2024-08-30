@@ -1,6 +1,0 @@
-train: C:\Users\sshiv\Desktop\sihProject\custom_dataset\train\images
-val: C:\Users\sshiv\Desktop\sihProject\custom_dataset\valid\images
-test: C:\Users\sshiv\Desktop\sihProject\custom_dataset\test\images
-
-nc: 9
-names: ['Shivanshu','Krishn','Yashwant','Sumit','Shubh','Gurpreet','Aviral','Aman','Shreyas']
